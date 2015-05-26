@@ -1,0 +1,17 @@
+[
+{
+  "modid": "overpowered",
+  "name": "OverPowered",
+  "description": "Overpoweres you",
+  "version": "1.0",
+  "credits": "Created by upoi",
+  "logoFile": "",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "upoi" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+]
+}
